@@ -1,3 +1,4 @@
+
 ## FARM MANAFEMNENT SYSTEM
 Farming software designed to help you execute your production and crop marketing decisions.
 You can see this system by visiting this link:https://jay341997.github.io/
@@ -17,4 +18,32 @@ Our system helps the merchant to get more profitable trades. When merchant enter
 The aim of this project is to develop a Farm Management System using react as front end frame work and firebase as backend.
 
 Merchant can find out revenue,cost and profits based on given information
-Merchanr can buy crops by finding appropriate farmer
+Merchant can buy crops by finding appropriate farmer
+
+### All Farmer Services
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_144900_jay341997.github.io.png)
+
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_145010_jay341997.github.io.png)
+
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_152601_jay341997.github.io.png)
+
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_145038_jay341997.github.io.png)
+
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_145059_jay341997.github.io.png)
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_152629_jay341997.github.io.png)
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_145118_jay341997.github.io.png)
+
+### All Merchant Services
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_152024_jay341997.github.io.png)
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_152059_jay341997.github.io.png)
+
+![](https://raw.githubusercontent.com/Jay341997/jay341997.github.io/master/Opera%20Snapshot_2018-08-25_152125_jay341997.github.io.png)
